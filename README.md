@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/riyan.rz?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/riyan.rz?r=nametag"><img src="https://telegra.ph/file/629400b4424f60d03e173.jpg" width="320" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/Stinkyproject/Stinky-Rz/fork">
@@ -15,8 +15,8 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/Callme_stinky)
+* **STINKY** 
+[<img src="https://telegra.ph/file/a041f9a1dfdc2b1a4a158.jpg">](https://t.me/Callme_stinky)
 
   
   
@@ -28,14 +28,14 @@
 ### JOIN DULU TOT!!:
 
 <a href="https://t.me/Stinkyrz"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/StinkyGroupChatt"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/StinkyGroupChatt"><img src="https://telegra.ph/file/96607f0dca99e64177a37.png"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+[<img src="https://telegra.ph/file/629400b4424f60d03e173.jpg">](https://t.me/Stinkyrz)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO STINKY UBOT AWALNYA COBA COBA EH KETAGIHAN KAYA KAMU WKWK.</h3>
 <p align="center">&nbsp;</p>
 
 ### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
