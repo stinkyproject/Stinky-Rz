@@ -1,11 +1,11 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/riyan.rz?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/Stinkyproject/Stinky-Rz/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/Stinkyproject/Stinky-Rz">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/Callme_stinky)
 
   
   
@@ -27,8 +27,8 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Stinkyrz"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/StinkyGroupChatt"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
