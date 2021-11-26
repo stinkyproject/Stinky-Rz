@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Stinkyproject/Stinky-Rz",
   "telegram": "https://t.me/Callme_stinky",
-  "success_url": "https://t.me/ootspambott",
+  "success_url": "https://t.me/StinkyGroupChatt",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -28,7 +28,7 @@
       "required": true
      },
      "STRING_SESSION": {
-      "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
+      "description": "Ambil String Session di @stinkyrz",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -46,8 +46,8 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Masuk @ootspambott atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
-      "value": "-1001456135097",
+      "description": "Masuk @StinkyGroupChatt atau Buatlah sebuah grup private/public masukan @Missrosse_bot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
+      "value": "-1001209850283",
       "required": true
     },
     "COUNTRY": {
@@ -90,8 +90,8 @@
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Masuk @ootspambott Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @MissRose_Bot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
-      "value": "-1001456135097",
+      "description": "Masuk @StinkyGroupChatt Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @MissRose_Bot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
+      "value": "-1001209850283",
       "required": false
     },
     "LOGSPAMMER": {
