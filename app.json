@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Stinkyproject/Stinky-Rz",
   "telegram": "https://t.me/Callme_stinky",
-  "success_url": "https://t.me/stinkyrz",
+  "success_url": "https://t.me/ootspambott",
   "stack": "container",
   "env": {
     "API_KEY": {
